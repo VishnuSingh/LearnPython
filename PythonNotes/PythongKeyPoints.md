@@ -1,8 +1,7 @@
-==========================================================================================================================================================
 Python Key Points
-==========================================================================================================================================================
-==================================================Session  =  1   ========================================================================================
-==========================================================================================================================================================
+===========================
+Session  =  1   
+===========================
 
 Python is the first programming language. Its very simple and generatl purpose language.
 
@@ -33,18 +32,14 @@ True
 <type 'int'>
 >>>
 
-
----> In the string datatype 0 is the first index of string character and if we want to get the reverse index then last character is on index -1
-
-
-================================================================================================================================================================================================================================
 ---> We can define our own function in the python.
 Ex:-
 def f1():print("function one")
 f1()
 
 output[function one]
-================================================================================================================================================================================================================================================================
+
+================================
 ----> Where we can use python:-
 ================================
 
@@ -58,15 +53,16 @@ output[function one]
 8. AI (Artificial Intelegancy)
 9. IOT Applications (IOT --> Internet of Things)
 
-=========================================================================================================================================================
 
+==========================
 Companies where python is using:-
 
 Google, youtube, facebook, Dropbox, NASA and many more.....
+==========================
 
-==========================================================================================================================================================
-==================================================Session  =  2   ========================================================================================
-==========================================================================================================================================================
+===========================
+Session  =  2   
+===========================
 
 FEATURES OF THE PYTHON
 ----------------------
@@ -94,6 +90,7 @@ print(math.sqrt(4))
 
 
 ----> Example to write the random number from 0,9
+
 from random import *
 print(randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9),sep='')
 
@@ -105,9 +102,12 @@ print(randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0
 
 
 ======================================
-Working with String 
+WORKING WITH STRING
+======================================
 
-index() function is used to find the index of a character or string (provided as parameter of index() function). But it raise exception if the given character not find in the 
+---> In the string datatype 0 is the first index of string character and if we want to get the reverse index then last character is on index -1
+
+---> index() function is used to find the index of a character or string (provided as parameter of index() function). But it raise exception if the given character not find in the 
 string.
 
 
