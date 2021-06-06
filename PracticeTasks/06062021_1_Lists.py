@@ -19,4 +19,48 @@ print(friendsList)
 
 #change an element let say "Raj" into "Rajeev" here
 friendsList[3] = "Rajeev"
-#print(friendsList)
+print(friendsList)
+
+#append() -- append an element in the list. 
+friendsList.append("Vishal")
+print(friendsList)
+
+#another list
+ageOfFrieds = ["30","35","40","42","32","47","38"]
+
+#extend the friends list
+friendsList.extend(ageOfFrieds)
+print(friendsList)
+
+#clear() the ageOfFrieds lsit
+ageOfFrieds.clear()
+print(ageOfFrieds)
+
+#copy of the list
+copyofFL = friendsList.copy()
+print(copyofFL)
+
+#insert() insert an element on the specific index.
+copyofFL.insert(10,"42")
+print(copyofFL)
+
+#count() count() an element in the list
+print(copyofFL.count('42'))
+
+#pop() pop removes the last element
+print(copyofFL.pop())
+print(copyofFL)
+
+#sort() sort the list
+copyofFL.sort()
+print(copyofFL)
+
+#index() is to print the index of an element from the list.
+print(copyofFL.index("DK"))
+
+#The remove() method removes the first occurrence of the element with the specified value.
+copyofFL.remove("42")
+print(copyofFL)
+
+
+
