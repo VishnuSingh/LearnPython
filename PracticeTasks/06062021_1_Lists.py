@@ -9,3 +9,7 @@ print(friendsList[1:6:3])
 
 #we can also do the reverse of this list (as we alredy did for string for my name) "Vishnu" into "unhsiV"
 print(friendsList[::-1])
+
+#change an element let say "Raj" into "Rajeev" here
+friendsList[3] = "Rajeev"
+print(friendsList)
