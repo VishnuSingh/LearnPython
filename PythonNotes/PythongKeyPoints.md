@@ -196,12 +196,13 @@ Lists
 =====
 
 List is like an array in the other programing language or as a sequenece in the xpath/xslt.
-In the list index is also start from 0.
+In the list **index is also start from 0** .and the **last index is also -1**
+
 ex:- listOFFriends = \["Amarjeet","Pravesh","Prayag","Rajiv","Vishnu"]
 index starts from 0:-     0         1           2       3       4
 
  So if we want to access the Name **Prayag** we will write the below code.
  
- >>>print(listOFFriends\[2])
+ >print(listOFFriends\[2])
  
  
