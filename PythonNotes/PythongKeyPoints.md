@@ -218,3 +218,17 @@ index starts from 0:-     0         1           2       3       4
 * reverse()	Reverses the order of the list
 * sort()	Sorts the list
 
+Tuples
+=====
+
+Tuples are mostly same as list but the main difference is that **Tuples are mutable** means the lement of tuple can not be change.
+
+In declaration of tuple parenthesis () are used instead of square brackets.
+
+User defined Functions
+======
+
+To define a function in python the **def** keyword is used and with fucntion name and colon.
+>>syntax is:- def say_hi(): 
+
+  
