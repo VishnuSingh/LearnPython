@@ -1,0 +1,5 @@
+#friends list with address:-
+Amarjeet    :   Jawahar Colony, Faridabad
+Prayag      :   Sector-23, Faridabad
+Pravesh     :   Sector-23, Faridabad
+Rajiv       :   Jawan village, Faridabad
