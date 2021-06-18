@@ -1,0 +1,4 @@
+class Questions:
+    def __init__(self, questionPrompt, answer):
+        self.questionPrompt = questionPrompt
+        self.answer = answer
